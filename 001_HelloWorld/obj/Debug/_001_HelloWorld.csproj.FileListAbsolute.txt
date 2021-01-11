@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/001_HelloWorld/bin/Debug/001_HelloWorld.exe
+/Users/JUN_BRO/Projects/Sample_CS/001_HelloWorld/bin/Debug/001_HelloWorld.pdb
+/Users/JUN_BRO/Projects/Sample_CS/001_HelloWorld/obj/Debug/_001_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/001_HelloWorld/obj/Debug/001_HelloWorld.exe
+/Users/JUN_BRO/Projects/Sample_CS/001_HelloWorld/obj/Debug/001_HelloWorld.pdb
