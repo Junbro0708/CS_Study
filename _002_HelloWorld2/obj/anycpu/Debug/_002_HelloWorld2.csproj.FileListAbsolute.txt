@@ -1,0 +1,6 @@
+/Users/JUN_BRO/Projects/Sample_CS/_002_HelloWorld2/bin/Debug/_002_HelloWorld2.exe
+/Users/JUN_BRO/Projects/Sample_CS/_002_HelloWorld2/bin/Debug/_002_HelloWorld2.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_002_HelloWorld2/obj/anycpu/Debug/_002_HelloWorld2.csprojAssemblyReference.cache
+/Users/JUN_BRO/Projects/Sample_CS/_002_HelloWorld2/obj/anycpu/Debug/_002_HelloWorld2.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_002_HelloWorld2/obj/anycpu/Debug/_002_HelloWorld2.exe
+/Users/JUN_BRO/Projects/Sample_CS/_002_HelloWorld2/obj/anycpu/Debug/_002_HelloWorld2.pdb

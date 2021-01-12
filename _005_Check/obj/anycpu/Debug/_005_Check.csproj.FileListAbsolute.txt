@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_005_Check/bin/Debug/_005_Check.exe
+/Users/JUN_BRO/Projects/Sample_CS/_005_Check/bin/Debug/_005_Check.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_005_Check/obj/anycpu/Debug/_005_Check.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_005_Check/obj/anycpu/Debug/_005_Check.exe
+/Users/JUN_BRO/Projects/Sample_CS/_005_Check/obj/anycpu/Debug/_005_Check.pdb
