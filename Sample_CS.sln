@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_004_Check", "_004_Check\_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_005_Check", "_005_Check\_005_Check.csproj", "{6F2ADBCD-AE6B-4667-8954-FCC2A294814C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_006_Variables", "_006_Variables\_006_Variables.csproj", "{A1037B91-BD2B-4A7C-895B-F7D98414E3B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_007_Variables", "_007_Variables\_007_Variables.csproj", "{33996FA1-6A53-46B1-899E-9DE07800612B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -39,6 +43,14 @@ Global
 		{6F2ADBCD-AE6B-4667-8954-FCC2A294814C}.Debug|anycpu.Build.0 = Debug|anycpu
 		{6F2ADBCD-AE6B-4667-8954-FCC2A294814C}.Release|anycpu.ActiveCfg = Release|anycpu
 		{6F2ADBCD-AE6B-4667-8954-FCC2A294814C}.Release|anycpu.Build.0 = Release|anycpu
+		{A1037B91-BD2B-4A7C-895B-F7D98414E3B6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A1037B91-BD2B-4A7C-895B-F7D98414E3B6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A1037B91-BD2B-4A7C-895B-F7D98414E3B6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A1037B91-BD2B-4A7C-895B-F7D98414E3B6}.Release|anycpu.Build.0 = Release|anycpu
+		{33996FA1-6A53-46B1-899E-9DE07800612B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{33996FA1-6A53-46B1-899E-9DE07800612B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{33996FA1-6A53-46B1-899E-9DE07800612B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{33996FA1-6A53-46B1-899E-9DE07800612B}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_007_Variables/bin/Debug/_007_Variables.exe
+/Users/JUN_BRO/Projects/Sample_CS/_007_Variables/bin/Debug/_007_Variables.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_007_Variables/obj/anycpu/Debug/_007_Variables.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_007_Variables/obj/anycpu/Debug/_007_Variables.exe
+/Users/JUN_BRO/Projects/Sample_CS/_007_Variables/obj/anycpu/Debug/_007_Variables.pdb
