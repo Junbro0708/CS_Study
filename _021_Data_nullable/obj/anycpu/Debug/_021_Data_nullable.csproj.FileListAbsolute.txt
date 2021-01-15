@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_021_Data_nullable/bin/Debug/_021_Data_nullable.exe
+/Users/JUN_BRO/Projects/Sample_CS/_021_Data_nullable/bin/Debug/_021_Data_nullable.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_021_Data_nullable/obj/anycpu/Debug/_021_Data_nullable.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_021_Data_nullable/obj/anycpu/Debug/_021_Data_nullable.exe
+/Users/JUN_BRO/Projects/Sample_CS/_021_Data_nullable/obj/anycpu/Debug/_021_Data_nullable.pdb

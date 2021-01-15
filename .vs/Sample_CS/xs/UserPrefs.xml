@@ -1,32 +1,38 @@
-﻿<Properties StartupConfiguration="{33996FA1-6A53-46B1-899E-9DE07800612B}|Default">
+﻿<Properties StartupConfiguration="{90A6DE2E-83DE-41C0-8D0E-D1EB7D7A76A3}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_007_Variables/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="_021_Data_nullable/Program.cs">
     <Files>
       <File FileName="001_HelloWorld/Program.cs" Line="3" Column="1" />
       <File FileName="_002_HelloWorld2/Program.cs" />
-      <File FileName="_003_HelloWorld3/Program.cs" Line="3" Column="1" />
+      <File FileName="_003_HelloWorld3/Program.cs" />
       <File FileName="_004_Check/Program.cs" />
-      <File FileName="_005_Check/Program.cs" Line="11" Column="53" />
-      <File FileName="_006_Variables/Program.cs" Line="16" Column="36" />
-      <File FileName="_007_Variables/Program.cs" Line="21" Column="43" />
+      <File FileName="_005_Check/Program.cs" />
+      <File FileName="_006_Variables/Program.cs" />
+      <File FileName="_007_Variables/Program.cs" Line="3" Column="1" />
+      <File FileName="_019_Data_enum/Program.cs" Line="4" Column="24" />
+      <File FileName="_020_Data_enum2/Program.cs" Line="3" Column="1" />
+      <File FileName="_021_Data_nullable/Program.cs" Line="29" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_006_Variables" expanded="True" />
-            <Node name="_007_Variables" expanded="True" selected="True" />
+            <Node name="_020_Data_enum2" selected="True" />
+            <Node name="_021_Data_nullable" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.__004__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__019__Data__enum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__003__HelloWorld3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__001__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.ItemProperties.__005__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__021__Data__nullable PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
