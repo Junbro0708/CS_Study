@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{90A6DE2E-83DE-41C0-8D0E-D1EB7D7A76A3}|Default">
+﻿<Properties StartupConfiguration="{989159E6-9570-49AB-B161-7A70EAE06A08}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_021_Data_nullable/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.__023__Data__const FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="_023_Data_const/Program.cs">
     <Files>
       <File FileName="001_HelloWorld/Program.cs" Line="3" Column="1" />
       <File FileName="_002_HelloWorld2/Program.cs" />
@@ -9,17 +10,21 @@
       <File FileName="_004_Check/Program.cs" />
       <File FileName="_005_Check/Program.cs" />
       <File FileName="_006_Variables/Program.cs" />
-      <File FileName="_007_Variables/Program.cs" Line="3" Column="1" />
-      <File FileName="_019_Data_enum/Program.cs" Line="4" Column="24" />
-      <File FileName="_020_Data_enum2/Program.cs" Line="3" Column="1" />
-      <File FileName="_021_Data_nullable/Program.cs" Line="29" Column="17" />
+      <File FileName="_007_Variables/Program.cs" />
+      <File FileName="_019_Data_enum/Program.cs" />
+      <File FileName="_020_Data_enum2/Program.cs" />
+      <File FileName="_021_Data_nullable/Program.cs" Line="3" Column="1" />
+      <File FileName="_022_Data_var/Program.cs" Line="3" Column="1" />
+      <File FileName="_023_Data_const/Program.cs" Line="6" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_020_Data_enum2" selected="True" />
-            <Node name="_021_Data_nullable" expanded="True" />
+            <Node name="_022_Data_var" expanded="True" />
+            <Node name="_023_Data_const" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -33,6 +38,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.ItemProperties.__005__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__021__Data__nullable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__022__Data__var PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_020_Data_enum2", "_020_Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_021_Data_nullable", "_021_Data_nullable\_021_Data_nullable.csproj", "{90A6DE2E-83DE-41C0-8D0E-D1EB7D7A76A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_022_Data_var", "_022_Data_var\_022_Data_var.csproj", "{F7E4D704-E0BE-46B0-B151-C5DCD82BCC6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_023_Data_const", "_023_Data_const\_023_Data_const.csproj", "{989159E6-9570-49AB-B161-7A70EAE06A08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -69,6 +73,14 @@ Global
 		{90A6DE2E-83DE-41C0-8D0E-D1EB7D7A76A3}.Debug|anycpu.Build.0 = Debug|anycpu
 		{90A6DE2E-83DE-41C0-8D0E-D1EB7D7A76A3}.Release|anycpu.ActiveCfg = Release|anycpu
 		{90A6DE2E-83DE-41C0-8D0E-D1EB7D7A76A3}.Release|anycpu.Build.0 = Release|anycpu
+		{F7E4D704-E0BE-46B0-B151-C5DCD82BCC6C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F7E4D704-E0BE-46B0-B151-C5DCD82BCC6C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F7E4D704-E0BE-46B0-B151-C5DCD82BCC6C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F7E4D704-E0BE-46B0-B151-C5DCD82BCC6C}.Release|anycpu.Build.0 = Release|anycpu
+		{989159E6-9570-49AB-B161-7A70EAE06A08}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{989159E6-9570-49AB-B161-7A70EAE06A08}.Debug|anycpu.Build.0 = Debug|anycpu
+		{989159E6-9570-49AB-B161-7A70EAE06A08}.Release|anycpu.ActiveCfg = Release|anycpu
+		{989159E6-9570-49AB-B161-7A70EAE06A08}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

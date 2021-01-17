@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_023_Data_const/bin/Debug/_023_Data_const.exe
+/Users/JUN_BRO/Projects/Sample_CS/_023_Data_const/bin/Debug/_023_Data_const.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_023_Data_const/obj/anycpu/Debug/_023_Data_const.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_023_Data_const/obj/anycpu/Debug/_023_Data_const.exe
+/Users/JUN_BRO/Projects/Sample_CS/_023_Data_const/obj/anycpu/Debug/_023_Data_const.pdb
