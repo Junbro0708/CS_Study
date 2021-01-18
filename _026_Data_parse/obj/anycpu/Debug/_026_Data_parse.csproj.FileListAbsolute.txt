@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_026_Data_parse/bin/Debug/_026_Data_parse.exe
+/Users/JUN_BRO/Projects/Sample_CS/_026_Data_parse/bin/Debug/_026_Data_parse.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_026_Data_parse/obj/anycpu/Debug/_026_Data_parse.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_026_Data_parse/obj/anycpu/Debug/_026_Data_parse.exe
+/Users/JUN_BRO/Projects/Sample_CS/_026_Data_parse/obj/anycpu/Debug/_026_Data_parse.pdb

@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_027_Data_Convert/bin/Debug/_027_Data_Convert.exe
+/Users/JUN_BRO/Projects/Sample_CS/_027_Data_Convert/bin/Debug/_027_Data_Convert.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_027_Data_Convert/obj/anycpu/Debug/_027_Data_Convert.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_027_Data_Convert/obj/anycpu/Debug/_027_Data_Convert.exe
+/Users/JUN_BRO/Projects/Sample_CS/_027_Data_Convert/obj/anycpu/Debug/_027_Data_Convert.pdb

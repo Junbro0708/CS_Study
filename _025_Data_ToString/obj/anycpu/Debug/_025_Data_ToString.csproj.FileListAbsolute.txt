@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_025_Data_ToString/bin/Debug/_025_Data_ToString.exe
+/Users/JUN_BRO/Projects/Sample_CS/_025_Data_ToString/bin/Debug/_025_Data_ToString.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_025_Data_ToString/obj/anycpu/Debug/_025_Data_ToString.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_025_Data_ToString/obj/anycpu/Debug/_025_Data_ToString.exe
+/Users/JUN_BRO/Projects/Sample_CS/_025_Data_ToString/obj/anycpu/Debug/_025_Data_ToString.pdb
