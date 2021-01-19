@@ -1,11 +1,11 @@
-﻿<Properties StartupConfiguration="{3B7BA7F0-F0A1-49D6-87E3-A50DAE30703A}|Default">
+﻿<Properties StartupConfiguration="{8B6F7444-8C26-45A3-BB98-A8F176F2B984}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__025__Data__ToString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__027__Data__Convert PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__024__Data__cast PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_027_Data_Convert/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_028_Data_Reference/Program.cs">
     <Files>
       <File FileName="001_HelloWorld/Program.cs" Line="3" Column="1" />
       <File FileName="_002_HelloWorld2/Program.cs" />
@@ -18,17 +18,18 @@
       <File FileName="_020_Data_enum2/Program.cs" />
       <File FileName="_021_Data_nullable/Program.cs" />
       <File FileName="_022_Data_var/Program.cs" />
-      <File FileName="_023_Data_const/Program.cs" Line="3" Column="1" />
-      <File FileName="_024_Data_cast/Program.cs" Line="3" Column="1" />
-      <File FileName="_025_Data_ToString/Program.cs" Line="3" Column="1" />
-      <File FileName="_026_Data_parse/Program.cs" Line="3" Column="1" />
-      <File FileName="_027_Data_Convert/Program.cs" Line="24" Column="46" />
+      <File FileName="_023_Data_const/Program.cs" />
+      <File FileName="_024_Data_cast/Program.cs" />
+      <File FileName="_025_Data_ToString/Program.cs" />
+      <File FileName="_026_Data_parse/Program.cs" />
+      <File FileName="_027_Data_Convert/Program.cs" Line="3" Column="1" />
+      <File FileName="_028_Data_Reference/Program.cs" Line="22" Column="91" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_027_Data_Convert" expanded="True" selected="True" />
+            <Node name="_028_Data_Reference" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -38,6 +39,7 @@
   <MonoDevelop.Ide.ItemProperties.__019__Data__enum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__003__HelloWorld3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__001__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__028__Data__Reference PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__026__Data__parse PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />

@@ -1,0 +1,6 @@
+/Users/JUN_BRO/Projects/Sample_CS/_028_Data_Reference/bin/Debug/_028_Data_Reference.exe
+/Users/JUN_BRO/Projects/Sample_CS/_028_Data_Reference/bin/Debug/_028_Data_Reference.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_028_Data_Reference/obj/anycpu/Debug/_028_Data_Reference.csprojAssemblyReference.cache
+/Users/JUN_BRO/Projects/Sample_CS/_028_Data_Reference/obj/anycpu/Debug/_028_Data_Reference.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_028_Data_Reference/obj/anycpu/Debug/_028_Data_Reference.exe
+/Users/JUN_BRO/Projects/Sample_CS/_028_Data_Reference/obj/anycpu/Debug/_028_Data_Reference.pdb
