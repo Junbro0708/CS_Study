@@ -1,11 +1,11 @@
-﻿<Properties StartupConfiguration="{8B6F7444-8C26-45A3-BB98-A8F176F2B984}|Default">
+﻿<Properties StartupConfiguration="{D4306E09-29C0-433C-BF29-FAFD5BAA3640}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__025__Data__ToString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__027__Data__Convert PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__024__Data__cast PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_028_Data_Reference/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_033_Check/Program.cs">
     <Files>
       <File FileName="001_HelloWorld/Program.cs" Line="3" Column="1" />
       <File FileName="_002_HelloWorld2/Program.cs" />
@@ -22,14 +22,18 @@
       <File FileName="_024_Data_cast/Program.cs" />
       <File FileName="_025_Data_ToString/Program.cs" />
       <File FileName="_026_Data_parse/Program.cs" />
-      <File FileName="_027_Data_Convert/Program.cs" Line="3" Column="1" />
-      <File FileName="_028_Data_Reference/Program.cs" Line="22" Column="91" />
+      <File FileName="_027_Data_Convert/Program.cs" />
+      <File FileName="_028_Data_Reference/Program.cs" Line="3" Column="1" />
+      <File FileName="_030_ReadLine/Program.cs" Line="16" Column="1" />
+      <File FileName="_032_Check/Program.cs" Line="17" Column="51" />
+      <File FileName="_033_Check/Program.cs" Line="22" Column="133" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_028_Data_Reference" expanded="True" selected="True" />
+            <Node name="_032_Check" selected="True" />
+            <Node name="_033_Check" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -38,10 +42,12 @@
   <MonoDevelop.Ide.ItemProperties.__004__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__019__Data__enum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__003__HelloWorld3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__033__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__001__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__028__Data__Reference PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__026__Data__parse PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.__030__ReadLine PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.ItemProperties.__005__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__021__Data__nullable PreferredExecutionTarget="MonoDevelop.Default" />
@@ -52,4 +58,5 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.__006__Variables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__007__Variables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__032__Check PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
