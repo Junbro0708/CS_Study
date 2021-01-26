@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_047_operator_while/bin/Debug/_047_operator_while.exe
+/Users/JUN_BRO/Projects/Sample_CS/_047_operator_while/bin/Debug/_047_operator_while.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_047_operator_while/obj/anycpu/Debug/_047_operator_while.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_047_operator_while/obj/anycpu/Debug/_047_operator_while.exe
+/Users/JUN_BRO/Projects/Sample_CS/_047_operator_while/obj/anycpu/Debug/_047_operator_while.pdb

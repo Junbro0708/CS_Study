@@ -1,39 +1,30 @@
-﻿<Properties StartupConfiguration="{D4306E09-29C0-433C-BF29-FAFD5BAA3640}|Default">
+﻿<Properties StartupConfiguration="{DEA7C1DC-FAC1-43BF-858F-A3E9A353B8FA}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__038__operater5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__045__operator__switch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__025__Data__ToString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__027__Data__Convert PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__024__Data__cast PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__056__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_033_Check/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_057_Check/Program.cs">
     <Files>
-      <File FileName="001_HelloWorld/Program.cs" Line="3" Column="1" />
-      <File FileName="_002_HelloWorld2/Program.cs" />
-      <File FileName="_003_HelloWorld3/Program.cs" />
-      <File FileName="_004_Check/Program.cs" />
-      <File FileName="_005_Check/Program.cs" />
-      <File FileName="_006_Variables/Program.cs" />
-      <File FileName="_007_Variables/Program.cs" />
-      <File FileName="_019_Data_enum/Program.cs" />
-      <File FileName="_020_Data_enum2/Program.cs" />
-      <File FileName="_021_Data_nullable/Program.cs" />
-      <File FileName="_022_Data_var/Program.cs" />
-      <File FileName="_023_Data_const/Program.cs" />
-      <File FileName="_024_Data_cast/Program.cs" />
-      <File FileName="_025_Data_ToString/Program.cs" />
-      <File FileName="_026_Data_parse/Program.cs" />
-      <File FileName="_027_Data_Convert/Program.cs" />
-      <File FileName="_028_Data_Reference/Program.cs" Line="3" Column="1" />
-      <File FileName="_030_ReadLine/Program.cs" Line="16" Column="1" />
-      <File FileName="_032_Check/Program.cs" Line="17" Column="51" />
-      <File FileName="_033_Check/Program.cs" Line="22" Column="133" />
+      <File FileName="_038_operater5/Program.cs" Line="13" Column="59" />
+      <File FileName="_039_Operator6/Program.cs" />
+      <File FileName="_045_operator_switch/Program.cs" Line="35" Column="62" />
+      <File FileName="_046_operator_switch2/Program.cs" Line="50" Column="42" />
+      <File FileName="_047_operator_while/Program.cs" Line="21" Column="38" />
+      <File FileName="_048_Random/Program.cs" Line="15" Column="13" />
+      <File FileName="_055_Check/Program.cs" Line="26" Column="14" />
+      <File FileName="_056_Check/Program.cs" Line="40" Column="18" />
+      <File FileName="_057_Check/Program.cs" Line="20" Column="50" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_032_Check" selected="True" />
-            <Node name="_033_Check" expanded="True" />
+            <Node name="_057_Check" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -42,9 +33,12 @@
   <MonoDevelop.Ide.ItemProperties.__004__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__019__Data__enum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__003__HelloWorld3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__055__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__033__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__001__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__028__Data__Reference PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__057__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__039__Operator6 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__026__Data__parse PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.__030__ReadLine PreferredExecutionTarget="MonoDevelop.Default" />
@@ -56,7 +50,10 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.__048__Random PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__047__operator__while PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__006__Variables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__007__Variables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__032__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__046__operator__switch2 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_038_operater5/bin/Debug/_038_operater5.exe
+/Users/JUN_BRO/Projects/Sample_CS/_038_operater5/bin/Debug/_038_operater5.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_038_operater5/obj/anycpu/Debug/_038_operater5.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_038_operater5/obj/anycpu/Debug/_038_operater5.exe
+/Users/JUN_BRO/Projects/Sample_CS/_038_operater5/obj/anycpu/Debug/_038_operater5.pdb
