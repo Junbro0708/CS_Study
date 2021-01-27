@@ -1,0 +1,6 @@
+/Users/JUN_BRO/Projects/Sample_CS/CheckPoint01/bin/Debug/CheckPoint01.exe
+/Users/JUN_BRO/Projects/Sample_CS/CheckPoint01/bin/Debug/CheckPoint01.pdb
+/Users/JUN_BRO/Projects/Sample_CS/CheckPoint01/obj/anycpu/Debug/CheckPoint01.csprojAssemblyReference.cache
+/Users/JUN_BRO/Projects/Sample_CS/CheckPoint01/obj/anycpu/Debug/CheckPoint01.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/CheckPoint01/obj/anycpu/Debug/CheckPoint01.exe
+/Users/JUN_BRO/Projects/Sample_CS/CheckPoint01/obj/anycpu/Debug/CheckPoint01.pdb

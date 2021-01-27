@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{DEA7C1DC-FAC1-43BF-858F-A3E9A353B8FA}|Default">
+﻿<Properties StartupConfiguration="{7DB9C766-CD88-40F8-B7EE-B0F65730CAAE}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__038__operater5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -8,23 +8,26 @@
   <MonoDevelop.Ide.ItemProperties.__024__Data__cast PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__056__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_057_Check/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckPoint01/Program.cs">
     <Files>
       <File FileName="_038_operater5/Program.cs" Line="13" Column="59" />
       <File FileName="_039_Operator6/Program.cs" />
-      <File FileName="_045_operator_switch/Program.cs" Line="35" Column="62" />
-      <File FileName="_046_operator_switch2/Program.cs" Line="50" Column="42" />
-      <File FileName="_047_operator_while/Program.cs" Line="21" Column="38" />
-      <File FileName="_048_Random/Program.cs" Line="15" Column="13" />
+      <File FileName="_045_operator_switch/Program.cs" />
+      <File FileName="_046_operator_switch2/Program.cs" />
+      <File FileName="_047_operator_while/Program.cs" />
+      <File FileName="_048_Random/Program.cs" />
       <File FileName="_055_Check/Program.cs" Line="26" Column="14" />
       <File FileName="_056_Check/Program.cs" Line="40" Column="18" />
       <File FileName="_057_Check/Program.cs" Line="20" Column="50" />
+      <File FileName="CheckPoint01/Program.cs" Line="22" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_057_Check" selected="True" />
+            <Node name="CheckPoint01" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -41,6 +44,7 @@
   <MonoDevelop.Ide.ItemProperties.__039__Operator6 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__026__Data__parse PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CheckPoint01 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__030__ReadLine PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.ItemProperties.__005__Check PreferredExecutionTarget="MonoDevelop.Default" />
