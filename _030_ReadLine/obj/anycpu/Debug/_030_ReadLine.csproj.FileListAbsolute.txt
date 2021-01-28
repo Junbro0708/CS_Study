@@ -1,6 +1,5 @@
 /Users/JUN_BRO/Projects/Sample_CS/_030_ReadLine/bin/Debug/_030_ReadLine.exe
 /Users/JUN_BRO/Projects/Sample_CS/_030_ReadLine/bin/Debug/_030_ReadLine.pdb
-/Users/JUN_BRO/Projects/Sample_CS/_030_ReadLine/obj/anycpu/Debug/_030_ReadLine.csprojAssemblyReference.cache
 /Users/JUN_BRO/Projects/Sample_CS/_030_ReadLine/obj/anycpu/Debug/_030_ReadLine.csproj.CoreCompileInputs.cache
 /Users/JUN_BRO/Projects/Sample_CS/_030_ReadLine/obj/anycpu/Debug/_030_ReadLine.exe
 /Users/JUN_BRO/Projects/Sample_CS/_030_ReadLine/obj/anycpu/Debug/_030_ReadLine.pdb

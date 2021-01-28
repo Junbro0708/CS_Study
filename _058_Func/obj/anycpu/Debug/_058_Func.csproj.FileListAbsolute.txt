@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_058_Func/bin/Debug/_058_Func.exe
+/Users/JUN_BRO/Projects/Sample_CS/_058_Func/bin/Debug/_058_Func.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_058_Func/obj/anycpu/Debug/_058_Func.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_058_Func/obj/anycpu/Debug/_058_Func.exe
+/Users/JUN_BRO/Projects/Sample_CS/_058_Func/obj/anycpu/Debug/_058_Func.pdb

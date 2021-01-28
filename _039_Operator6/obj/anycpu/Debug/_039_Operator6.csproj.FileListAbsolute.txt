@@ -1,6 +1,5 @@
 /Users/JUN_BRO/Projects/Sample_CS/_039_Operator6/bin/Debug/_039_Operator6.exe
 /Users/JUN_BRO/Projects/Sample_CS/_039_Operator6/bin/Debug/_039_Operator6.pdb
-/Users/JUN_BRO/Projects/Sample_CS/_039_Operator6/obj/anycpu/Debug/_039_Operator6.csprojAssemblyReference.cache
 /Users/JUN_BRO/Projects/Sample_CS/_039_Operator6/obj/anycpu/Debug/_039_Operator6.csproj.CoreCompileInputs.cache
 /Users/JUN_BRO/Projects/Sample_CS/_039_Operator6/obj/anycpu/Debug/_039_Operator6.exe
 /Users/JUN_BRO/Projects/Sample_CS/_039_Operator6/obj/anycpu/Debug/_039_Operator6.pdb

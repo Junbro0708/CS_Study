@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_057_Check", "_057_Check\_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint01", "CheckPoint01\CheckPoint01.csproj", "{7DB9C766-CD88-40F8-B7EE-B0F65730CAAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_058_Func", "_058_Func\_058_Func.csproj", "{598E9098-2471-4D1A-A708-4C306C024091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_062_Func_Swap", "_062_Func_Swap\_062_Func_Swap.csproj", "{28AEE589-886D-45FF-9FE9-FB58D2516560}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -189,6 +193,14 @@ Global
 		{7DB9C766-CD88-40F8-B7EE-B0F65730CAAE}.Debug|anycpu.Build.0 = Debug|anycpu
 		{7DB9C766-CD88-40F8-B7EE-B0F65730CAAE}.Release|anycpu.ActiveCfg = Release|anycpu
 		{7DB9C766-CD88-40F8-B7EE-B0F65730CAAE}.Release|anycpu.Build.0 = Release|anycpu
+		{598E9098-2471-4D1A-A708-4C306C024091}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{598E9098-2471-4D1A-A708-4C306C024091}.Debug|anycpu.Build.0 = Debug|anycpu
+		{598E9098-2471-4D1A-A708-4C306C024091}.Release|anycpu.ActiveCfg = Release|anycpu
+		{598E9098-2471-4D1A-A708-4C306C024091}.Release|anycpu.Build.0 = Release|anycpu
+		{28AEE589-886D-45FF-9FE9-FB58D2516560}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{28AEE589-886D-45FF-9FE9-FB58D2516560}.Debug|anycpu.Build.0 = Debug|anycpu
+		{28AEE589-886D-45FF-9FE9-FB58D2516560}.Release|anycpu.ActiveCfg = Release|anycpu
+		{28AEE589-886D-45FF-9FE9-FB58D2516560}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,5 @@
 /Users/JUN_BRO/Projects/Sample_CS/_024_Data_cast/bin/Debug/_024_Data_cast.exe
 /Users/JUN_BRO/Projects/Sample_CS/_024_Data_cast/bin/Debug/_024_Data_cast.pdb
-/Users/JUN_BRO/Projects/Sample_CS/_024_Data_cast/obj/anycpu/Debug/_024_Data_cast.csprojAssemblyReference.cache
 /Users/JUN_BRO/Projects/Sample_CS/_024_Data_cast/obj/anycpu/Debug/_024_Data_cast.csproj.CoreCompileInputs.cache
 /Users/JUN_BRO/Projects/Sample_CS/_024_Data_cast/obj/anycpu/Debug/_024_Data_cast.exe
 /Users/JUN_BRO/Projects/Sample_CS/_024_Data_cast/obj/anycpu/Debug/_024_Data_cast.pdb

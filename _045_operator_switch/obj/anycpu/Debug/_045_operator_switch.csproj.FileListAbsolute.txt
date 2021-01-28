@@ -1,6 +1,5 @@
 /Users/JUN_BRO/Projects/Sample_CS/_045_operator_switch/bin/Debug/_045_operator_switch.exe
 /Users/JUN_BRO/Projects/Sample_CS/_045_operator_switch/bin/Debug/_045_operator_switch.pdb
-/Users/JUN_BRO/Projects/Sample_CS/_045_operator_switch/obj/anycpu/Debug/_045_operator_switch.csprojAssemblyReference.cache
 /Users/JUN_BRO/Projects/Sample_CS/_045_operator_switch/obj/anycpu/Debug/_045_operator_switch.csproj.CoreCompileInputs.cache
 /Users/JUN_BRO/Projects/Sample_CS/_045_operator_switch/obj/anycpu/Debug/_045_operator_switch.exe
 /Users/JUN_BRO/Projects/Sample_CS/_045_operator_switch/obj/anycpu/Debug/_045_operator_switch.pdb

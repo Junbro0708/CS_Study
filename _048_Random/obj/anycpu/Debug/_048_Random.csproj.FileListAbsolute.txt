@@ -1,6 +1,5 @@
 /Users/JUN_BRO/Projects/Sample_CS/_048_Random/bin/Debug/_048_Random.exe
 /Users/JUN_BRO/Projects/Sample_CS/_048_Random/bin/Debug/_048_Random.pdb
-/Users/JUN_BRO/Projects/Sample_CS/_048_Random/obj/anycpu/Debug/_048_Random.csprojAssemblyReference.cache
 /Users/JUN_BRO/Projects/Sample_CS/_048_Random/obj/anycpu/Debug/_048_Random.csproj.CoreCompileInputs.cache
 /Users/JUN_BRO/Projects/Sample_CS/_048_Random/obj/anycpu/Debug/_048_Random.exe
 /Users/JUN_BRO/Projects/Sample_CS/_048_Random/obj/anycpu/Debug/_048_Random.pdb

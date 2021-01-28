@@ -1,6 +1,5 @@
 /Users/JUN_BRO/Projects/Sample_CS/_019_Data_enum/bin/Debug/_019_Data_enum.exe
 /Users/JUN_BRO/Projects/Sample_CS/_019_Data_enum/bin/Debug/_019_Data_enum.pdb
-/Users/JUN_BRO/Projects/Sample_CS/_019_Data_enum/obj/anycpu/Debug/_019_Data_enum.csprojAssemblyReference.cache
 /Users/JUN_BRO/Projects/Sample_CS/_019_Data_enum/obj/anycpu/Debug/_019_Data_enum.csproj.CoreCompileInputs.cache
 /Users/JUN_BRO/Projects/Sample_CS/_019_Data_enum/obj/anycpu/Debug/_019_Data_enum.exe
 /Users/JUN_BRO/Projects/Sample_CS/_019_Data_enum/obj/anycpu/Debug/_019_Data_enum.pdb
