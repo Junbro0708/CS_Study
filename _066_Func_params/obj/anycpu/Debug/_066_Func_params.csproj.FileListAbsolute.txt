@@ -1,0 +1,6 @@
+/Users/JUN_BRO/Projects/Sample_CS/_066_Func_params/bin/Debug/_066_Func_params.exe
+/Users/JUN_BRO/Projects/Sample_CS/_066_Func_params/bin/Debug/_066_Func_params.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_066_Func_params/obj/anycpu/Debug/_066_Func_params.csprojAssemblyReference.cache
+/Users/JUN_BRO/Projects/Sample_CS/_066_Func_params/obj/anycpu/Debug/_066_Func_params.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_066_Func_params/obj/anycpu/Debug/_066_Func_params.exe
+/Users/JUN_BRO/Projects/Sample_CS/_066_Func_params/obj/anycpu/Debug/_066_Func_params.pdb
