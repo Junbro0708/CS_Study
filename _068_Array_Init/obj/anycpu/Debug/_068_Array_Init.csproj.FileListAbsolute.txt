@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_068_Array_Init/bin/Debug/_068_Array_Init.exe
+/Users/JUN_BRO/Projects/Sample_CS/_068_Array_Init/bin/Debug/_068_Array_Init.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_068_Array_Init/obj/anycpu/Debug/_068_Array_Init.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_068_Array_Init/obj/anycpu/Debug/_068_Array_Init.exe
+/Users/JUN_BRO/Projects/Sample_CS/_068_Array_Init/obj/anycpu/Debug/_068_Array_Init.pdb

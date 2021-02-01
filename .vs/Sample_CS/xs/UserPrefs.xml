@@ -1,28 +1,36 @@
-﻿<Properties StartupConfiguration="{AA69DDA9-A12D-461A-8059-E015443797F3}|Default">
+﻿<Properties StartupConfiguration="{8F5C8B20-0E01-487A-8FBC-A0A2F5296973}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__038__operater5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__045__operator__switch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__069__Array__Init2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__025__Data__ToString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__027__Data__Convert PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__070__Array__Multi PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__024__Data__cast PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__071__Array__Flex PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__056__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__068__Array__Init PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__067__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_067_Check/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_071_Array_Flex/Program.cs">
     <Files>
       <File FileName="_062_Func_Swap/Program.cs" Line="27" Column="10" />
       <File FileName="_063_Func_Out/Program.cs" />
       <File FileName="_066_Func_params/Program.cs" />
       <File FileName="_067_Check/Program.cs" Line="33" Column="34" />
-      <File FileName="CheckPoint02/Program.cs" Line="9" Column="32" />
+      <File FileName="CheckPoint02/Program.cs" />
       <File FileName="CheckPoint01/Program.cs" />
+      <File FileName="_068_Array_Init/Program.cs" Line="18" Column="73" />
+      <File FileName="_069_Array_Init2/Program.cs" Line="29" Column="48" />
+      <File FileName="_070_Array_Multi/Program.cs" Line="22" Column="45" />
+      <File FileName="_071_Array_Flex/Program.cs" Line="42" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_067_Check" expanded="True" selected="True" />
+            <Node name="_071_Array_Flex" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
