@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_072_Array_Func1/bin/Debug/_072_Array_Func1.exe
+/Users/JUN_BRO/Projects/Sample_CS/_072_Array_Func1/bin/Debug/_072_Array_Func1.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_072_Array_Func1/obj/anycpu/Debug/_072_Array_Func1.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_072_Array_Func1/obj/anycpu/Debug/_072_Array_Func1.exe
+/Users/JUN_BRO/Projects/Sample_CS/_072_Array_Func1/obj/anycpu/Debug/_072_Array_Func1.pdb
