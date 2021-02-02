@@ -31,13 +31,19 @@ namespace _075_Check
         {
             for (int i = 0; i < max; i++)
                 Console.WriteLine("학생 ID : {0}", ID[i]);
+            Console.WriteLine();
         }
         static int CheckID(int id, int max, int[] ID)
         {
-            if (ID.Contains(id))
-                return id;
-            else
-                return 1;
+            for(int i = 0; i < max; i++)
+            {
+                if(ID[i] == id)
+                {
+                    return i;
+                }
+            }
+
+            return 90;
         }
 
         public static void Main(string[] args)
@@ -60,7 +66,28 @@ namespace _075_Check
 
             while (true)
             {
-                
+                Console.Write("학생 아이디를 입력하세요. (단, 0은 나가기)");
+                int check = int.Parse(Console.ReadLine());
+
+                if (check == 0)
+                    break;
+
+                int temp = CheckID(check, MAX, arrID);
+
+                if (temp != 90)
+                {
+                    Console.WriteLine("국어 점수 : {0}", arrKor[temp]);
+                    Console.WriteLine("수학 점수 : {0}", arrMath[temp]);
+                    Console.WriteLine("영어 점수 : {0}", arrEng[temp]);
+                    Console.WriteLine("총점 : {0}", arrKor[temp] + arrMath[temp] + arrEng[temp]);
+                    Console.WriteLine("평균 : {0}", (arrKor[temp] + arrMath[temp] + arrEng[temp]) / 3);
+                    Console.WriteLine();
+                }
+                else
+                {
+                    Console.WriteLine("학생 아이디가 존재하지 않습니다. 다시 입력해주세요.");
+                    Console.WriteLine();
+                }
             }
         }
     }

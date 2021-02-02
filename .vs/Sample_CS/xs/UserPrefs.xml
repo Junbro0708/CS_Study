@@ -25,17 +25,19 @@
       <File FileName="_068_Array_Init/Program.cs" />
       <File FileName="_069_Array_Init2/Program.cs" />
       <File FileName="_070_Array_Multi/Program.cs" />
-      <File FileName="_071_Array_Flex/Program.cs" Line="42" Column="37" />
-      <File FileName="_072_Array_Func1/Program.cs" Line="26" Column="45" />
-      <File FileName="_073_Array_Func2/Program.cs" Line="30" Column="52" />
-      <File FileName="_074_Array_Clear/Program.cs" Line="19" Column="45" />
-      <File FileName="_075_Check/Program.cs" Line="63" Column="17" />
+      <File FileName="_071_Array_Flex/Program.cs" />
+      <File FileName="_072_Array_Func1/Program.cs" />
+      <File FileName="_073_Array_Func2/Program.cs" />
+      <File FileName="_074_Array_Clear/Program.cs" />
+      <File FileName="_075_Check/Program.cs" Line="77" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_075_Check" expanded="True" selected="True" />
+            <Node name="_075_Check" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
