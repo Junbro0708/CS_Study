@@ -1,7 +1,9 @@
-﻿<Properties StartupConfiguration="{9291F90C-6C51-4E0D-A9D7-5852FF7F29B8}|Default">
+﻿<Properties StartupConfiguration="{FA9635B0-E732-4D08-91E6-0508162330BF}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__038__operater5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__076__Check2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CheckPoint03 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__045__operator__switch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__069__Array__Init2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__025__Data__ToString PreferredExecutionTarget="MonoDevelop.Default" />
@@ -14,7 +16,7 @@
   <MonoDevelop.Ide.ItemProperties.__068__Array__Init PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__067__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_075_Check/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckPoint03/Program.cs">
     <Files>
       <File FileName="_062_Func_Swap/Program.cs" Line="27" Column="10" />
       <File FileName="_063_Func_Out/Program.cs" />
@@ -29,15 +31,15 @@
       <File FileName="_072_Array_Func1/Program.cs" />
       <File FileName="_073_Array_Func2/Program.cs" />
       <File FileName="_074_Array_Clear/Program.cs" />
-      <File FileName="_075_Check/Program.cs" Line="77" Column="31" />
+      <File FileName="_075_Check/Program.cs" Line="84" Column="102" />
+      <File FileName="_076_Check2/Program.cs" Line="59" Column="27" />
+      <File FileName="CheckPoint03/Program.cs" Line="112" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_075_Check" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="CheckPoint03" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>

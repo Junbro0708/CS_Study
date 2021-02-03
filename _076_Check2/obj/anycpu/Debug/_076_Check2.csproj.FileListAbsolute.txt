@@ -1,0 +1,6 @@
+/Users/JUN_BRO/Projects/Sample_CS/_076_Check2/bin/Debug/_076_Check2.exe
+/Users/JUN_BRO/Projects/Sample_CS/_076_Check2/bin/Debug/_076_Check2.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_076_Check2/obj/anycpu/Debug/_076_Check2.csprojAssemblyReference.cache
+/Users/JUN_BRO/Projects/Sample_CS/_076_Check2/obj/anycpu/Debug/_076_Check2.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_076_Check2/obj/anycpu/Debug/_076_Check2.exe
+/Users/JUN_BRO/Projects/Sample_CS/_076_Check2/obj/anycpu/Debug/_076_Check2.pdb
