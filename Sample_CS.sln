@@ -95,6 +95,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_076_Check2", "_076_Check2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint03", "CheckPoint03\CheckPoint03.csproj", "{FA9635B0-E732-4D08-91E6-0508162330BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_077_Class", "_077_Class\_077_Class.csproj", "{0B7471D8-FA58-411B-B14C-54EEE9C0C884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_078_Class_Constructor", "_078_Class_Constructor\_078_Class_Constructor.csproj", "{C0AD8A92-3954-443D-ACBF-C677AF0DDA6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -285,6 +289,14 @@ Global
 		{FA9635B0-E732-4D08-91E6-0508162330BF}.Debug|anycpu.Build.0 = Debug|anycpu
 		{FA9635B0-E732-4D08-91E6-0508162330BF}.Release|anycpu.ActiveCfg = Release|anycpu
 		{FA9635B0-E732-4D08-91E6-0508162330BF}.Release|anycpu.Build.0 = Release|anycpu
+		{0B7471D8-FA58-411B-B14C-54EEE9C0C884}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0B7471D8-FA58-411B-B14C-54EEE9C0C884}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0B7471D8-FA58-411B-B14C-54EEE9C0C884}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0B7471D8-FA58-411B-B14C-54EEE9C0C884}.Release|anycpu.Build.0 = Release|anycpu
+		{C0AD8A92-3954-443D-ACBF-C677AF0DDA6B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C0AD8A92-3954-443D-ACBF-C677AF0DDA6B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C0AD8A92-3954-443D-ACBF-C677AF0DDA6B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C0AD8A92-3954-443D-ACBF-C677AF0DDA6B}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

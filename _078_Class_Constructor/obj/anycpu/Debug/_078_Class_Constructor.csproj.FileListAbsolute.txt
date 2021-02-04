@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_078_Class_Constructor/bin/Debug/_078_Class_Constructor.exe
+/Users/JUN_BRO/Projects/Sample_CS/_078_Class_Constructor/bin/Debug/_078_Class_Constructor.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_078_Class_Constructor/obj/anycpu/Debug/_078_Class_Constructor.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_078_Class_Constructor/obj/anycpu/Debug/_078_Class_Constructor.exe
+/Users/JUN_BRO/Projects/Sample_CS/_078_Class_Constructor/obj/anycpu/Debug/_078_Class_Constructor.pdb
