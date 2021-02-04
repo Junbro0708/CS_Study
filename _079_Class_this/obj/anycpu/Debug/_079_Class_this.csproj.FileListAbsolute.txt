@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_079_Class_this/bin/Debug/_079_Class_this.exe
+/Users/JUN_BRO/Projects/Sample_CS/_079_Class_this/bin/Debug/_079_Class_this.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_079_Class_this/obj/anycpu/Debug/_079_Class_this.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_079_Class_this/obj/anycpu/Debug/_079_Class_this.exe
+/Users/JUN_BRO/Projects/Sample_CS/_079_Class_this/obj/anycpu/Debug/_079_Class_this.pdb

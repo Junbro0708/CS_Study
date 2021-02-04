@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_081_Class_parameter/bin/Debug/_081_Class_parameter.exe
+/Users/JUN_BRO/Projects/Sample_CS/_081_Class_parameter/bin/Debug/_081_Class_parameter.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_081_Class_parameter/obj/anycpu/Debug/_081_Class_parameter.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_081_Class_parameter/obj/anycpu/Debug/_081_Class_parameter.exe
+/Users/JUN_BRO/Projects/Sample_CS/_081_Class_parameter/obj/anycpu/Debug/_081_Class_parameter.pdb

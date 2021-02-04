@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_080_Class_static/bin/Debug/_080_Class_static.exe
+/Users/JUN_BRO/Projects/Sample_CS/_080_Class_static/bin/Debug/_080_Class_static.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_080_Class_static/obj/anycpu/Debug/_080_Class_static.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_080_Class_static/obj/anycpu/Debug/_080_Class_static.exe
+/Users/JUN_BRO/Projects/Sample_CS/_080_Class_static/obj/anycpu/Debug/_080_Class_static.pdb
