@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_083_Class_inheritance/bin/Debug/_083_Class_inheritance.exe
+/Users/JUN_BRO/Projects/Sample_CS/_083_Class_inheritance/bin/Debug/_083_Class_inheritance.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_083_Class_inheritance/obj/anycpu/Debug/_083_Class_inheritance2.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_083_Class_inheritance/obj/anycpu/Debug/_083_Class_inheritance.exe
+/Users/JUN_BRO/Projects/Sample_CS/_083_Class_inheritance/obj/anycpu/Debug/_083_Class_inheritance.pdb

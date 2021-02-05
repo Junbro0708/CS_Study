@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_083_isas/bin/Debug/_083_isas.exe
+/Users/JUN_BRO/Projects/Sample_CS/_083_isas/bin/Debug/_083_isas.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_083_isas/obj/anycpu/Debug/_083_isas.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_083_isas/obj/anycpu/Debug/_083_isas.exe
+/Users/JUN_BRO/Projects/Sample_CS/_083_isas/obj/anycpu/Debug/_083_isas.pdb

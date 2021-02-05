@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{EE3E3288-8B15-4B71-BFDB-A1BF8850BFAB}|Default">
+﻿<Properties StartupConfiguration="{32FAD843-86C1-43C1-8311-19D1F635B75E}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__038__operater5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__082__Class__inheritance2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__076__Check2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CheckPoint03 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__045__operator__switch PreferredExecutionTarget="MonoDevelop.Default" />
@@ -10,13 +11,15 @@
   <MonoDevelop.Ide.ItemProperties.__072__Array__Func1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__027__Data__Convert PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__070__Array__Multi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__082__Class__inheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__024__Data__cast PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__071__Array__Flex PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__056__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__068__Array__Init PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__067__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__082__Class__base PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_081_Class_parameter/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_083_isas/Program.cs">
     <Files>
       <File FileName="_062_Func_Swap/Program.cs" Line="27" Column="10" />
       <File FileName="_063_Func_Out/Program.cs" />
@@ -33,18 +36,22 @@
       <File FileName="_074_Array_Clear/Program.cs" />
       <File FileName="_075_Check/Program.cs" />
       <File FileName="_076_Check2/Program.cs" />
-      <File FileName="CheckPoint03/Program.cs" Line="112" Column="1" />
-      <File FileName="_077_Class/Program.cs" Line="15" Column="10" />
-      <File FileName="_078_Class_Constructor/Program.cs" Line="18" Column="40" />
-      <File FileName="_079_Class_this/Program.cs" Line="28" Column="24" />
-      <File FileName="_080_Class_static/Program.cs" Line="16" Column="26" />
-      <File FileName="_081_Class_parameter/Program.cs" Line="34" Column="24" />
+      <File FileName="CheckPoint03/Program.cs" />
+      <File FileName="_077_Class/Program.cs" />
+      <File FileName="_078_Class_Constructor/Program.cs" />
+      <File FileName="_079_Class_this/Program.cs" />
+      <File FileName="_080_Class_static/Program.cs" />
+      <File FileName="_081_Class_parameter/Program.cs" />
+      <File FileName="_082_Class_inheritance/Program.cs" />
+      <File FileName="_083_Class_inheritance/Program.cs" Line="38" Column="33" />
+      <File FileName="_082_Class_base/Program.cs" Line="15" Column="33" />
+      <File FileName="_083_isas/Program.cs" Line="9" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_081_Class_parameter" expanded="True" selected="True" />
+            <Node name="_083_isas" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -68,6 +75,7 @@
   <MonoDevelop.Ide.ItemProperties.__039__Operator6 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__026__Data__parse PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.__083__isas FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__081__Class__parameter PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__063__Func__Out FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CheckPoint01 PreferredExecutionTarget="MonoDevelop.Default" />
