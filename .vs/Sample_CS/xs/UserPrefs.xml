@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{32FAD843-86C1-43C1-8311-19D1F635B75E}|Default">
+﻿<Properties StartupConfiguration="{1D396403-4100-4F7D-BBC5-40A8B5C37BBB}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__038__operater5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -19,7 +19,7 @@
   <MonoDevelop.Ide.ItemProperties.__067__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__082__Class__base PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_083_isas/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_084_override2/Program.cs">
     <Files>
       <File FileName="_062_Func_Swap/Program.cs" Line="27" Column="10" />
       <File FileName="_063_Func_Out/Program.cs" />
@@ -43,15 +43,18 @@
       <File FileName="_080_Class_static/Program.cs" />
       <File FileName="_081_Class_parameter/Program.cs" />
       <File FileName="_082_Class_inheritance/Program.cs" />
-      <File FileName="_083_Class_inheritance/Program.cs" Line="38" Column="33" />
-      <File FileName="_082_Class_base/Program.cs" Line="15" Column="33" />
-      <File FileName="_083_isas/Program.cs" Line="9" Column="47" />
+      <File FileName="_083_Class_inheritance/Program.cs" />
+      <File FileName="_082_Class_base/Program.cs" />
+      <File FileName="_083_isas/Program.cs" Line="55" Column="1" />
+      <File FileName="_084_override/Program.cs" Line="36" Column="20" />
+      <File FileName="_084_override2/Program.cs" Line="87" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_083_isas" expanded="True" selected="True" />
+            <Node name="_084_override" expanded="True" />
+            <Node name="_084_override2" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -64,6 +67,7 @@
   <MonoDevelop.Ide.ItemProperties.__003__HelloWorld3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__058__Func PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__055__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__084__override2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__033__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__078__Class__Constructor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__001__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
@@ -75,7 +79,7 @@
   <MonoDevelop.Ide.ItemProperties.__039__Operator6 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__026__Data__parse PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.__083__isas FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__083__isas PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__081__Class__parameter PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__063__Func__Out FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CheckPoint01 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -91,6 +95,7 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.__075__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__084__override PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__077__Class PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__048__Random PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__047__operator__while PreferredExecutionTarget="MonoDevelop.Default" />

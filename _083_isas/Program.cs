@@ -49,6 +49,10 @@ namespace _083_isas
             {
                 Console.WriteLine("aa == BB");
             }
+
+            Base bb = new BB();
+            BB copyBB = bb as BB; // 강제 형변환
+
         }
     }
 }

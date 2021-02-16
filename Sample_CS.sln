@@ -113,6 +113,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_082_Class_base", "_082_Cla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_083_isas", "_083_isas\_083_isas.csproj", "{32FAD843-86C1-43C1-8311-19D1F635B75E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_084_override", "_084_override\_084_override.csproj", "{39E9798C-4192-4E4D-92C9-BE12C3580584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_084_override2", "_084_override2\_084_override2.csproj", "{1D396403-4100-4F7D-BBC5-40A8B5C37BBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -339,6 +343,14 @@ Global
 		{32FAD843-86C1-43C1-8311-19D1F635B75E}.Debug|anycpu.Build.0 = Debug|anycpu
 		{32FAD843-86C1-43C1-8311-19D1F635B75E}.Release|anycpu.ActiveCfg = Release|anycpu
 		{32FAD843-86C1-43C1-8311-19D1F635B75E}.Release|anycpu.Build.0 = Release|anycpu
+		{39E9798C-4192-4E4D-92C9-BE12C3580584}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{39E9798C-4192-4E4D-92C9-BE12C3580584}.Debug|anycpu.Build.0 = Debug|anycpu
+		{39E9798C-4192-4E4D-92C9-BE12C3580584}.Release|anycpu.ActiveCfg = Release|anycpu
+		{39E9798C-4192-4E4D-92C9-BE12C3580584}.Release|anycpu.Build.0 = Release|anycpu
+		{1D396403-4100-4F7D-BBC5-40A8B5C37BBB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1D396403-4100-4F7D-BBC5-40A8B5C37BBB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1D396403-4100-4F7D-BBC5-40A8B5C37BBB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1D396403-4100-4F7D-BBC5-40A8B5C37BBB}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
