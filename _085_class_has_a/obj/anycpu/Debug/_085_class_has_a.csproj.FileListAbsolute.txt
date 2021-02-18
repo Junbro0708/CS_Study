@@ -1,0 +1,6 @@
+/Users/JUN_BRO/Projects/Sample_CS/_085_class_has_a/bin/Debug/_085_class_has_a.exe
+/Users/JUN_BRO/Projects/Sample_CS/_085_class_has_a/bin/Debug/_085_class_has_a.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_085_class_has_a/obj/anycpu/Debug/_085_class_has_a.csprojAssemblyReference.cache
+/Users/JUN_BRO/Projects/Sample_CS/_085_class_has_a/obj/anycpu/Debug/_085_class_has_a.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_085_class_has_a/obj/anycpu/Debug/_085_class_has_a.exe
+/Users/JUN_BRO/Projects/Sample_CS/_085_class_has_a/obj/anycpu/Debug/_085_class_has_a.pdb

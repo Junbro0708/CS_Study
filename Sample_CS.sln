@@ -117,6 +117,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_084_override", "_084_overr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_084_override2", "_084_override2\_084_override2.csproj", "{1D396403-4100-4F7D-BBC5-40A8B5C37BBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_085_class_has_a", "_085_class_has_a\_085_class_has_a.csproj", "{7D3CB19B-BB09-4DB8-BA20-3587D287AA31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -351,6 +353,10 @@ Global
 		{1D396403-4100-4F7D-BBC5-40A8B5C37BBB}.Debug|anycpu.Build.0 = Debug|anycpu
 		{1D396403-4100-4F7D-BBC5-40A8B5C37BBB}.Release|anycpu.ActiveCfg = Release|anycpu
 		{1D396403-4100-4F7D-BBC5-40A8B5C37BBB}.Release|anycpu.Build.0 = Release|anycpu
+		{7D3CB19B-BB09-4DB8-BA20-3587D287AA31}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{7D3CB19B-BB09-4DB8-BA20-3587D287AA31}.Debug|anycpu.Build.0 = Debug|anycpu
+		{7D3CB19B-BB09-4DB8-BA20-3587D287AA31}.Release|anycpu.ActiveCfg = Release|anycpu
+		{7D3CB19B-BB09-4DB8-BA20-3587D287AA31}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
