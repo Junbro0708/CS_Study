@@ -6,7 +6,7 @@
   <MonoDevelop.Ide.ItemProperties.__076__Check2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CheckPoint03 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__045__operator__switch PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.__085__class__has__a FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__085__class__has__a PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__069__Array__Init2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__025__Data__ToString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__072__Array__Func1 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -20,7 +20,7 @@
   <MonoDevelop.Ide.ItemProperties.__067__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__082__Class__base PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_085_class_has_a/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_086_class_partial/EmptyClass.cs">
     <Files>
       <File FileName="_062_Func_Swap/Program.cs" Line="27" Column="10" />
       <File FileName="_063_Func_Out/Program.cs" />
@@ -49,14 +49,19 @@
       <File FileName="_083_isas/Program.cs" />
       <File FileName="_084_override/Program.cs" />
       <File FileName="_084_override2/Program.cs" Line="87" Column="43" />
-      <File FileName="_085_class_has_a/Program.cs" Line="9" Column="13" />
+      <File FileName="_085_class_has_a/Program.cs" Line="58" Column="24" />
+      <File FileName="_086_class_partial/Program.cs" Line="4" Column="2" />
+      <File FileName="_086_class_partial/AA.cs" Line="15" Column="28" />
+      <File FileName="_086_class_partial/AA.ADD" Line="4" Column="5" />
+      <File FileName="_086_class_partial/EmptyClass.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_085_class_has_a" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="_085_class_has_a" expanded="True" />
+            <Node name="_086_class_partial" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -74,6 +79,7 @@
   <MonoDevelop.Ide.ItemProperties.__033__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__078__Class__Constructor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__001__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__086__class__partial FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.CheckPoint02 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__062__Func__Swap PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__028__Data__Reference PreferredExecutionTarget="MonoDevelop.Default" />

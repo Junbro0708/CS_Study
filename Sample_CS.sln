@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_084_override2", "_084_over
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_085_class_has_a", "_085_class_has_a\_085_class_has_a.csproj", "{7D3CB19B-BB09-4DB8-BA20-3587D287AA31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_086_class_partial", "_086_class_partial\_086_class_partial.csproj", "{5255ACCA-69CB-45EC-A344-CCC9171944CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -357,6 +359,10 @@ Global
 		{7D3CB19B-BB09-4DB8-BA20-3587D287AA31}.Debug|anycpu.Build.0 = Debug|anycpu
 		{7D3CB19B-BB09-4DB8-BA20-3587D287AA31}.Release|anycpu.ActiveCfg = Release|anycpu
 		{7D3CB19B-BB09-4DB8-BA20-3587D287AA31}.Release|anycpu.Build.0 = Release|anycpu
+		{5255ACCA-69CB-45EC-A344-CCC9171944CD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5255ACCA-69CB-45EC-A344-CCC9171944CD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5255ACCA-69CB-45EC-A344-CCC9171944CD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5255ACCA-69CB-45EC-A344-CCC9171944CD}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
