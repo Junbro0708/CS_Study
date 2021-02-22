@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_088_struct/bin/Debug/_088_struct.exe
+/Users/JUN_BRO/Projects/Sample_CS/_088_struct/bin/Debug/_088_struct.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_088_struct/obj/anycpu/Debug/_088_struct.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_088_struct/obj/anycpu/Debug/_088_struct.exe
+/Users/JUN_BRO/Projects/Sample_CS/_088_struct/obj/anycpu/Debug/_088_struct.pdb

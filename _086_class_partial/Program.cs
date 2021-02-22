@@ -6,7 +6,7 @@ namespace _086_class_partial
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

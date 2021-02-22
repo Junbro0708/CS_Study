@@ -1,0 +1,6 @@
+/Users/JUN_BRO/Projects/Sample_CS/_087_class_extension/bin/Debug/_087_class_extension.exe
+/Users/JUN_BRO/Projects/Sample_CS/_087_class_extension/bin/Debug/_087_class_extension.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_087_class_extension/obj/anycpu/Debug/_087_class_extension.csprojAssemblyReference.cache
+/Users/JUN_BRO/Projects/Sample_CS/_087_class_extension/obj/anycpu/Debug/_087_class_extension.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_087_class_extension/obj/anycpu/Debug/_087_class_extension.exe
+/Users/JUN_BRO/Projects/Sample_CS/_087_class_extension/obj/anycpu/Debug/_087_class_extension.pdb
