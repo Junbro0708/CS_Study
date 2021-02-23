@@ -1,0 +1,6 @@
+/Users/JUN_BRO/Projects/Sample_CS/_089_interface/bin/Debug/_089_interface.exe
+/Users/JUN_BRO/Projects/Sample_CS/_089_interface/bin/Debug/_089_interface.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_089_interface/obj/anycpu/Debug/_089_interface.csprojAssemblyReference.cache
+/Users/JUN_BRO/Projects/Sample_CS/_089_interface/obj/anycpu/Debug/_089_interface.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_089_interface/obj/anycpu/Debug/_089_interface.exe
+/Users/JUN_BRO/Projects/Sample_CS/_089_interface/obj/anycpu/Debug/_089_interface.pdb
