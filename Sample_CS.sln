@@ -127,6 +127,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_088_struct", "_088_struct\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_089_interface", "_089_interface\_089_interface.csproj", "{ACC133B0-432B-413B-A491-2382EED19661}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_090_abstract", "_090_abstract\_090_abstract.csproj", "{A261DC4A-9838-4D4B-A79C-9EC27FFFCE5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -381,6 +383,10 @@ Global
 		{ACC133B0-432B-413B-A491-2382EED19661}.Debug|anycpu.Build.0 = Debug|anycpu
 		{ACC133B0-432B-413B-A491-2382EED19661}.Release|anycpu.ActiveCfg = Release|anycpu
 		{ACC133B0-432B-413B-A491-2382EED19661}.Release|anycpu.Build.0 = Release|anycpu
+		{A261DC4A-9838-4D4B-A79C-9EC27FFFCE5F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A261DC4A-9838-4D4B-A79C-9EC27FFFCE5F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A261DC4A-9838-4D4B-A79C-9EC27FFFCE5F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A261DC4A-9838-4D4B-A79C-9EC27FFFCE5F}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
