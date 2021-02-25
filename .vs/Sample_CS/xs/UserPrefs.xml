@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{06E9828D-DFE2-46F8-83BA-AA4564039DA2}|Default">
+﻿<Properties StartupConfiguration="{0A3B4743-A58A-4904-A4E0-A5C70A5C6E87}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__038__operater5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -23,10 +23,10 @@
   <MonoDevelop.Ide.ItemProperties.__068__Array__Init PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__067__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__082__Class__base PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.__092__Property2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__092__Property2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__088__struct PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_092_Property2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_093_Check/Program.cs">
     <Files>
       <File FileName="_062_Func_Swap/Program.cs" Line="27" Column="10" />
       <File FileName="_063_Func_Out/Program.cs" />
@@ -41,7 +41,7 @@
       <File FileName="_072_Array_Func1/Program.cs" />
       <File FileName="_073_Array_Func2/Program.cs" />
       <File FileName="_074_Array_Clear/Program.cs" />
-      <File FileName="_075_Check/Program.cs" />
+      <File FileName="_075_Check/Program.cs" Line="1" Column="1" />
       <File FileName="_076_Check2/Program.cs" />
       <File FileName="CheckPoint03/Program.cs" />
       <File FileName="_077_Class/Program.cs" />
@@ -64,13 +64,14 @@
       <File FileName="_089_interface/Program.cs" />
       <File FileName="_090_abstract/Program.cs" Line="42" Column="10" />
       <File FileName="_091_Property/Program.cs" Line="22" Column="53" />
-      <File FileName="_092_Property2/Program.cs" Line="4" Column="2" />
+      <File FileName="_092_Property2/Program.cs" Line="25" Column="55" />
+      <File FileName="_093_Check/Program.cs" Line="5" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_092_Property2" expanded="True">
+            <Node name="_093_Check" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -115,6 +116,7 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.__075__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__084__override PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__093__Check FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__077__Class PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__048__Random PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__047__operator__while PreferredExecutionTarget="MonoDevelop.Default" />

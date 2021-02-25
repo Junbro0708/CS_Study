@@ -133,6 +133,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_091_Property", "_091_Prope
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_092_Property2", "_092_Property2\_092_Property2.csproj", "{06E9828D-DFE2-46F8-83BA-AA4564039DA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_093_Check", "_093_Check\_093_Check.csproj", "{0A3B4743-A58A-4904-A4E0-A5C70A5C6E87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -399,6 +401,10 @@ Global
 		{06E9828D-DFE2-46F8-83BA-AA4564039DA2}.Debug|anycpu.Build.0 = Debug|anycpu
 		{06E9828D-DFE2-46F8-83BA-AA4564039DA2}.Release|anycpu.ActiveCfg = Release|anycpu
 		{06E9828D-DFE2-46F8-83BA-AA4564039DA2}.Release|anycpu.Build.0 = Release|anycpu
+		{0A3B4743-A58A-4904-A4E0-A5C70A5C6E87}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0A3B4743-A58A-4904-A4E0-A5C70A5C6E87}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0A3B4743-A58A-4904-A4E0-A5C70A5C6E87}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0A3B4743-A58A-4904-A4E0-A5C70A5C6E87}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
