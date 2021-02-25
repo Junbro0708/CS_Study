@@ -1,0 +1,6 @@
+/Users/JUN_BRO/Projects/Sample_CS/_091_Property/bin/Debug/_091_Property.exe
+/Users/JUN_BRO/Projects/Sample_CS/_091_Property/bin/Debug/_091_Property.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_091_Property/obj/anycpu/Debug/_091_Property.csprojAssemblyReference.cache
+/Users/JUN_BRO/Projects/Sample_CS/_091_Property/obj/anycpu/Debug/_091_Property.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_091_Property/obj/anycpu/Debug/_091_Property.exe
+/Users/JUN_BRO/Projects/Sample_CS/_091_Property/obj/anycpu/Debug/_091_Property.pdb

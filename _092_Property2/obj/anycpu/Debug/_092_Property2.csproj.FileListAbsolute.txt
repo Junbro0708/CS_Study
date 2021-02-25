@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_092_Property2/bin/Debug/_092_Property2.exe
+/Users/JUN_BRO/Projects/Sample_CS/_092_Property2/bin/Debug/_092_Property2.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_092_Property2/obj/anycpu/Debug/_092_Property2.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_092_Property2/obj/anycpu/Debug/_092_Property2.exe
+/Users/JUN_BRO/Projects/Sample_CS/_092_Property2/obj/anycpu/Debug/_092_Property2.pdb

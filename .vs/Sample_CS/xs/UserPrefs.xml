@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{ACC133B0-432B-413B-A491-2382EED19661}|Default">
+﻿<Properties StartupConfiguration="{06E9828D-DFE2-46F8-83BA-AA4564039DA2}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__038__operater5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -18,13 +18,15 @@
   <MonoDevelop.Ide.ItemProperties.__024__Data__cast PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__090__abstract FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.__071__Array__Flex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__091__Property PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__056__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__068__Array__Init PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__067__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__082__Class__base PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__092__Property2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__088__struct PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_090_abstract/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_092_Property2/Program.cs">
     <Files>
       <File FileName="_062_Func_Swap/Program.cs" Line="27" Column="10" />
       <File FileName="_063_Func_Out/Program.cs" />
@@ -59,16 +61,16 @@
       <File FileName="_086_class_partial/AA.ADD" />
       <File FileName="_087_class_extension/Program.cs" />
       <File FileName="_088_struct/Program.cs" />
-      <File FileName="_089_interface/Program.cs" Line="38" Column="17" />
-      <File FileName="_090_abstract/Program.cs" Line="9" Column="47" />
+      <File FileName="_089_interface/Program.cs" />
+      <File FileName="_090_abstract/Program.cs" Line="42" Column="10" />
+      <File FileName="_091_Property/Program.cs" Line="22" Column="53" />
+      <File FileName="_092_Property2/Program.cs" Line="4" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_084_override2" expanded="True" />
-            <Node name="_089_interface" expanded="True" />
-            <Node name="_090_abstract" expanded="True">
+            <Node name="_092_Property2" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

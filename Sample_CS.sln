@@ -129,6 +129,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_089_interface", "_089_inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_090_abstract", "_090_abstract\_090_abstract.csproj", "{A261DC4A-9838-4D4B-A79C-9EC27FFFCE5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_091_Property", "_091_Property\_091_Property.csproj", "{997E7A24-17DC-4105-A218-4069F1CF9193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_092_Property2", "_092_Property2\_092_Property2.csproj", "{06E9828D-DFE2-46F8-83BA-AA4564039DA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -387,6 +391,14 @@ Global
 		{A261DC4A-9838-4D4B-A79C-9EC27FFFCE5F}.Debug|anycpu.Build.0 = Debug|anycpu
 		{A261DC4A-9838-4D4B-A79C-9EC27FFFCE5F}.Release|anycpu.ActiveCfg = Release|anycpu
 		{A261DC4A-9838-4D4B-A79C-9EC27FFFCE5F}.Release|anycpu.Build.0 = Release|anycpu
+		{997E7A24-17DC-4105-A218-4069F1CF9193}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{997E7A24-17DC-4105-A218-4069F1CF9193}.Debug|anycpu.Build.0 = Debug|anycpu
+		{997E7A24-17DC-4105-A218-4069F1CF9193}.Release|anycpu.ActiveCfg = Release|anycpu
+		{997E7A24-17DC-4105-A218-4069F1CF9193}.Release|anycpu.Build.0 = Release|anycpu
+		{06E9828D-DFE2-46F8-83BA-AA4564039DA2}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{06E9828D-DFE2-46F8-83BA-AA4564039DA2}.Debug|anycpu.Build.0 = Debug|anycpu
+		{06E9828D-DFE2-46F8-83BA-AA4564039DA2}.Release|anycpu.ActiveCfg = Release|anycpu
+		{06E9828D-DFE2-46F8-83BA-AA4564039DA2}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
