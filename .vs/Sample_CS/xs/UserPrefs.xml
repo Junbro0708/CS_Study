@@ -55,7 +55,7 @@
       <File FileName="_082_Class_base/Program.cs" />
       <File FileName="_083_isas/Program.cs" />
       <File FileName="_084_override/Program.cs" />
-      <File FileName="_084_override2/Program.cs" Line="76" Column="6" />
+      <File FileName="_084_override2/Program.cs" />
       <File FileName="_085_class_has_a/Program.cs" />
       <File FileName="_086_class_partial/Program.cs" />
       <File FileName="_086_class_partial/AA.cs" />
@@ -67,15 +67,13 @@
       <File FileName="_091_Property/Program.cs" />
       <File FileName="_092_Property2/Program.cs" />
       <File FileName="_093_Check/Program.cs" />
-      <File FileName="_094_Check/Program.cs" Line="67" Column="22" />
-      <File FileName="CheckPoint04/Program.cs" Line="76" Column="6" />
+      <File FileName="_094_Check/Program.cs" />
+      <File FileName="CheckPoint04/Program.cs" Line="249" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_084_override2" expanded="True" />
-            <Node name="_094_Check" expanded="True" />
             <Node name="CheckPoint04" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
@@ -89,7 +87,7 @@
   <MonoDevelop.Ide.ItemProperties.__019__Data__enum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__074__Array__Clear PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__003__HelloWorld3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.CheckPoint04 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CheckPoint04 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__058__Func PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__055__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__084__override2 PreferredExecutionTarget="MonoDevelop.Default" />
