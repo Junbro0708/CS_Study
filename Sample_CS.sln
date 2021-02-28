@@ -137,6 +137,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_093_Check", "_093_Check\_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_094_Check", "_094_Check\_094_Check.csproj", "{1518F182-D681-4885-BEBE-DA43298A8E6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint04", "CheckPoint04\CheckPoint04.csproj", "{1B17DAC0-E02D-4A3B-8CD6-F7340533BE9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -411,6 +413,10 @@ Global
 		{1518F182-D681-4885-BEBE-DA43298A8E6B}.Debug|anycpu.Build.0 = Debug|anycpu
 		{1518F182-D681-4885-BEBE-DA43298A8E6B}.Release|anycpu.ActiveCfg = Release|anycpu
 		{1518F182-D681-4885-BEBE-DA43298A8E6B}.Release|anycpu.Build.0 = Release|anycpu
+		{1B17DAC0-E02D-4A3B-8CD6-F7340533BE9B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1B17DAC0-E02D-4A3B-8CD6-F7340533BE9B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1B17DAC0-E02D-4A3B-8CD6-F7340533BE9B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1B17DAC0-E02D-4A3B-8CD6-F7340533BE9B}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
