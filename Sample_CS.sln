@@ -139,6 +139,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_094_Check", "_094_Check\_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint04", "CheckPoint04\CheckPoint04.csproj", "{1B17DAC0-E02D-4A3B-8CD6-F7340533BE9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_095_ArrayList", "_095_ArrayList\_095_ArrayList.csproj", "{98FCEFCA-24F0-4788-88F9-3BF22855A901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_096_Queue", "_096_Queue\_096_Queue.csproj", "{0BED6E9E-1ECA-4798-993F-AA7DC1226468}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -417,6 +421,14 @@ Global
 		{1B17DAC0-E02D-4A3B-8CD6-F7340533BE9B}.Debug|anycpu.Build.0 = Debug|anycpu
 		{1B17DAC0-E02D-4A3B-8CD6-F7340533BE9B}.Release|anycpu.ActiveCfg = Release|anycpu
 		{1B17DAC0-E02D-4A3B-8CD6-F7340533BE9B}.Release|anycpu.Build.0 = Release|anycpu
+		{98FCEFCA-24F0-4788-88F9-3BF22855A901}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{98FCEFCA-24F0-4788-88F9-3BF22855A901}.Debug|anycpu.Build.0 = Debug|anycpu
+		{98FCEFCA-24F0-4788-88F9-3BF22855A901}.Release|anycpu.ActiveCfg = Release|anycpu
+		{98FCEFCA-24F0-4788-88F9-3BF22855A901}.Release|anycpu.Build.0 = Release|anycpu
+		{0BED6E9E-1ECA-4798-993F-AA7DC1226468}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{0BED6E9E-1ECA-4798-993F-AA7DC1226468}.Debug|anycpu.Build.0 = Debug|anycpu
+		{0BED6E9E-1ECA-4798-993F-AA7DC1226468}.Release|anycpu.ActiveCfg = Release|anycpu
+		{0BED6E9E-1ECA-4798-993F-AA7DC1226468}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

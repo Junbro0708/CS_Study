@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{1B17DAC0-E02D-4A3B-8CD6-F7340533BE9B}|Default">
+﻿<Properties StartupConfiguration="{0BED6E9E-1ECA-4798-993F-AA7DC1226468}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__038__operater5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -9,6 +9,7 @@
   <MonoDevelop.Ide.ItemProperties.__094__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__045__operator__switch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__087__class__extension PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__096__Queue FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__085__class__has__a PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__069__Array__Init2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__025__Data__ToString PreferredExecutionTarget="MonoDevelop.Default" />
@@ -16,6 +17,7 @@
   <MonoDevelop.Ide.ItemProperties.__027__Data__Convert PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__070__Array__Multi PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__082__Class__inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__095__ArrayList PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__024__Data__cast PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__090__abstract FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.__071__Array__Flex PreferredExecutionTarget="MonoDevelop.Default" />
@@ -27,7 +29,7 @@
   <MonoDevelop.Ide.ItemProperties.__092__Property2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__088__struct PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CheckPoint04/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_096_Queue/Program.cs">
     <Files>
       <File FileName="_062_Func_Swap/Program.cs" Line="27" Column="10" />
       <File FileName="_063_Func_Out/Program.cs" />
@@ -68,13 +70,15 @@
       <File FileName="_092_Property2/Program.cs" />
       <File FileName="_093_Check/Program.cs" />
       <File FileName="_094_Check/Program.cs" />
-      <File FileName="CheckPoint04/Program.cs" Line="304" Column="50" />
+      <File FileName="CheckPoint04/Program.cs" Line="199" Column="29" />
+      <File FileName="_095_ArrayList/Program.cs" Line="31" Column="60" />
+      <File FileName="_096_Queue/Program.cs" Line="9" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="CheckPoint04" expanded="True">
+            <Node name="_096_Queue" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

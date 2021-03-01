@@ -137,6 +137,7 @@ namespace CheckPoint04
 
         public void CreateUnitMenu()
         {
+            Console.Clear();
             Console.WriteLine("++ 유닛 생성 시스템 ++");
             Console.WriteLine("(1) 바바리안 (2) 자이언트 (3) 힐러 (0) 뒤로가기");
 
@@ -176,6 +177,7 @@ namespace CheckPoint04
         }
         public void UnitRunMenu()
         {
+            Console.Clear();
             Console.WriteLine("========> 유닛 달리기");
             Console.WriteLine("(1) 바바리안 (2) 자이언트 (3) 힐러 (4) 전체 달리기 (0) 뒤로가기");
 
@@ -194,6 +196,7 @@ namespace CheckPoint04
         }
         public void UnitAttackMenu()
         {
+            Console.Clear();
             Console.WriteLine("!!!!!!!! 유닛 공격");
             Console.WriteLine("(1) 바바리안 (2) 자이언트 (3) 힐러 (4) 전체 공격 (0) 뒤로가기");
 
@@ -287,8 +290,9 @@ namespace CheckPoint04
         {
             UnitControl control = new UnitControl();
             string selectNum;
+            bool isLoop = true;
 
-            while (true)
+            while (isLoop)
             {
                 selectNum = control.Menu();
 
@@ -302,6 +306,9 @@ namespace CheckPoint04
                         break;
                     case "3": // 공격
                         control.UnitAttackMenu();
+                        break;
+                    default:
+                        isLoop = false;
                         break;
                 }
             }
