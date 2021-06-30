@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_063_Func_Out/bin/Debug/_063_Func_Out.exe
+/Users/JUN_BRO/Projects/Sample_CS/_063_Func_Out/bin/Debug/_063_Func_Out.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_063_Func_Out/obj/anycpu/Debug/_063_Func_Out.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_063_Func_Out/obj/anycpu/Debug/_063_Func_Out.exe
+/Users/JUN_BRO/Projects/Sample_CS/_063_Func_Out/obj/anycpu/Debug/_063_Func_Out.pdb

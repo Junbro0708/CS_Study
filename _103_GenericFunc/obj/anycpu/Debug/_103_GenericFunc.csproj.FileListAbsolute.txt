@@ -1,0 +1,6 @@
+/Users/JUN_BRO/Projects/Sample_CS/_103_GenericFunc/bin/Debug/_103_GenericFunc.exe
+/Users/JUN_BRO/Projects/Sample_CS/_103_GenericFunc/bin/Debug/_103_GenericFunc.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_103_GenericFunc/obj/anycpu/Debug/_103_GenericFunc.csprojAssemblyReference.cache
+/Users/JUN_BRO/Projects/Sample_CS/_103_GenericFunc/obj/anycpu/Debug/_103_GenericFunc.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_103_GenericFunc/obj/anycpu/Debug/_103_GenericFunc.exe
+/Users/JUN_BRO/Projects/Sample_CS/_103_GenericFunc/obj/anycpu/Debug/_103_GenericFunc.pdb

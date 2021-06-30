@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_086_class_partial/bin/Debug/_086_class_partial.exe
+/Users/JUN_BRO/Projects/Sample_CS/_086_class_partial/bin/Debug/_086_class_partial.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_086_class_partial/obj/anycpu/Debug/_086_class_partial.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_086_class_partial/obj/anycpu/Debug/_086_class_partial.exe
+/Users/JUN_BRO/Projects/Sample_CS/_086_class_partial/obj/anycpu/Debug/_086_class_partial.pdb

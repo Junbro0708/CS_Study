@@ -1,0 +1,5 @@
+/Users/JUN_BRO/Projects/Sample_CS/_104_GenericClass/bin/Debug/_104_GenericClass.exe
+/Users/JUN_BRO/Projects/Sample_CS/_104_GenericClass/bin/Debug/_104_GenericClass.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_104_GenericClass/obj/anycpu/Debug/_104_GenericClass.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_104_GenericClass/obj/anycpu/Debug/_104_GenericClass.exe
+/Users/JUN_BRO/Projects/Sample_CS/_104_GenericClass/obj/anycpu/Debug/_104_GenericClass.pdb

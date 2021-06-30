@@ -151,6 +151,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_099_Indexer01", "_099_Inde
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_100_Indexer02", "_100_Indexer02\_100_Indexer02.csproj", "{94E1C1DA-FD5C-4C68-A595-603F9E80D49F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_103_GenericFunc", "_103_GenericFunc\_103_GenericFunc.csproj", "{9721E3F5-15BE-41AD-9603-79F13EF880B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_104_GenericClass", "_104_GenericClass\_104_GenericClass.csproj", "{9B81E5BC-54E8-4F17-8F1B-1EF346897108}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -453,6 +457,14 @@ Global
 		{94E1C1DA-FD5C-4C68-A595-603F9E80D49F}.Debug|anycpu.Build.0 = Debug|anycpu
 		{94E1C1DA-FD5C-4C68-A595-603F9E80D49F}.Release|anycpu.ActiveCfg = Release|anycpu
 		{94E1C1DA-FD5C-4C68-A595-603F9E80D49F}.Release|anycpu.Build.0 = Release|anycpu
+		{9721E3F5-15BE-41AD-9603-79F13EF880B7}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9721E3F5-15BE-41AD-9603-79F13EF880B7}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9721E3F5-15BE-41AD-9603-79F13EF880B7}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9721E3F5-15BE-41AD-9603-79F13EF880B7}.Release|anycpu.Build.0 = Release|anycpu
+		{9B81E5BC-54E8-4F17-8F1B-1EF346897108}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9B81E5BC-54E8-4F17-8F1B-1EF346897108}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9B81E5BC-54E8-4F17-8F1B-1EF346897108}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9B81E5BC-54E8-4F17-8F1B-1EF346897108}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

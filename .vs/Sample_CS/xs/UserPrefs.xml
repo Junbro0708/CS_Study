@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{94E1C1DA-FD5C-4C68-A595-603F9E80D49F}|Default">
+﻿<Properties StartupConfiguration="{9B81E5BC-54E8-4F17-8F1B-1EF346897108}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__103__GenericFunc PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__038__operater5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__082__Class__inheritance2 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -29,7 +30,7 @@
   <MonoDevelop.Ide.ItemProperties.__092__Property2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__088__struct PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_100_Indexer02/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_104_GenericClass/Program.cs">
     <Files>
       <File FileName="_062_Func_Swap/Program.cs" Line="27" Column="10" />
       <File FileName="_063_Func_Out/Program.cs" />
@@ -70,19 +71,23 @@
       <File FileName="_092_Property2/Program.cs" />
       <File FileName="_093_Check/Program.cs" />
       <File FileName="_094_Check/Program.cs" />
-      <File FileName="CheckPoint04/Program.cs" Line="199" Column="29" />
-      <File FileName="_095_ArrayList/Program.cs" Line="31" Column="60" />
-      <File FileName="_096_Queue/Program.cs" Line="33" Column="41" />
-      <File FileName="_097_Stack/Program.cs" Line="33" Column="41" />
-      <File FileName="_098_HashTable/Program.cs" Line="28" Column="15" />
-      <File FileName="_099_Indexer01/Program.cs" Line="31" Column="54" />
-      <File FileName="_100_Indexer02/Program.cs" Line="9" Column="47" />
+      <File FileName="CheckPoint04/Program.cs" />
+      <File FileName="_095_ArrayList/Program.cs" />
+      <File FileName="_096_Queue/Program.cs" />
+      <File FileName="_097_Stack/Program.cs" />
+      <File FileName="_098_HashTable/Program.cs" />
+      <File FileName="_099_Indexer01/Program.cs" />
+      <File FileName="_100_Indexer02/Program.cs" Line="49" Column="56" />
+      <File FileName="_103_GenericFunc/Program.cs" Line="32" Column="31" />
+      <File FileName="_104_GenericClass/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_100_Indexer02" expanded="True" selected="True" />
+            <Node name="_104_GenericClass" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -90,9 +95,10 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.__004__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__073__Array__Func2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__104__GenericClass FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__019__Data__enum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__074__Array__Clear PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.__100__Indexer02 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__100__Indexer02 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__003__HelloWorld3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CheckPoint04 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__058__Func PreferredExecutionTarget="MonoDevelop.Default" />

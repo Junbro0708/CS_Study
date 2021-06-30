@@ -1,0 +1,6 @@
+/Users/JUN_BRO/Projects/Sample_CS/_090_abstract/bin/Debug/_090_abstract.exe
+/Users/JUN_BRO/Projects/Sample_CS/_090_abstract/bin/Debug/_090_abstract.pdb
+/Users/JUN_BRO/Projects/Sample_CS/_090_abstract/obj/anycpu/Debug/_090_abstract.csprojAssemblyReference.cache
+/Users/JUN_BRO/Projects/Sample_CS/_090_abstract/obj/anycpu/Debug/_090_abstract.csproj.CoreCompileInputs.cache
+/Users/JUN_BRO/Projects/Sample_CS/_090_abstract/obj/anycpu/Debug/_090_abstract.exe
+/Users/JUN_BRO/Projects/Sample_CS/_090_abstract/obj/anycpu/Debug/_090_abstract.pdb
