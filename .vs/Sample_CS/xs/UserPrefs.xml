@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{9B81E5BC-54E8-4F17-8F1B-1EF346897108}|Default">
+﻿<Properties StartupConfiguration="{6678EC9D-97F0-4B7F-BF34-D14B1D49A590}|Default">
   <MonoDevelop.Ide.ItemProperties.__002__HelloWorld2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__103__GenericFunc PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__038__operater5 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -20,7 +20,6 @@
   <MonoDevelop.Ide.ItemProperties.__082__Class__inheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__095__ArrayList PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__024__Data__cast PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.__090__abstract FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.__071__Array__Flex PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__091__Property PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__056__Check PreferredExecutionTarget="MonoDevelop.Default" />
@@ -30,7 +29,7 @@
   <MonoDevelop.Ide.ItemProperties.__092__Property2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__088__struct PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_104_GenericClass/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_105_dynamic/Program.cs">
     <Files>
       <File FileName="_062_Func_Swap/Program.cs" Line="27" Column="10" />
       <File FileName="_063_Func_Out/Program.cs" />
@@ -77,15 +76,16 @@
       <File FileName="_097_Stack/Program.cs" />
       <File FileName="_098_HashTable/Program.cs" />
       <File FileName="_099_Indexer01/Program.cs" />
-      <File FileName="_100_Indexer02/Program.cs" Line="49" Column="56" />
-      <File FileName="_103_GenericFunc/Program.cs" Line="32" Column="31" />
-      <File FileName="_104_GenericClass/Program.cs" Line="1" Column="1" />
+      <File FileName="_100_Indexer02/Program.cs" />
+      <File FileName="_103_GenericFunc/Program.cs" />
+      <File FileName="_104_GenericClass/Program.cs" Line="28" Column="31" />
+      <File FileName="_105_dynamic/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Sample_CS" expanded="True">
-            <Node name="_104_GenericClass" expanded="True">
+            <Node name="_105_dynamic" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -94,8 +94,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.__004__Check PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.__073__Array__Func2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.__104__GenericClass FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__073__Array__Func2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__104__GenericClass PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__019__Data__enum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__074__Array__Clear PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__100__Indexer02 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -107,7 +107,6 @@
   <MonoDevelop.Ide.ItemProperties.__033__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__078__Class__Constructor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__001__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.__086__class__partial FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.CheckPoint02 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__062__Func__Swap PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__028__Data__Reference PreferredExecutionTarget="MonoDevelop.Default" />
@@ -119,7 +118,8 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.__083__isas PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__081__Class__parameter PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.__063__Func__Out FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__063__Func__Out PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__105__dynamic FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CheckPoint01 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__030__ReadLine PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.__066__Func__params PreferredExecutionTarget="MonoDevelop.Default" />
