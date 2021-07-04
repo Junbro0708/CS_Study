@@ -157,6 +157,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_104_GenericClass", "_104_G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_105_dynamic", "_105_dynamic\_105_dynamic.csproj", "{6678EC9D-97F0-4B7F-BF34-D14B1D49A590}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_111_try_catch", "_111_try_catch\_111_try_catch.csproj", "{5ED44A41-B8A7-4C86-9588-3552FD799D22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -471,6 +473,10 @@ Global
 		{6678EC9D-97F0-4B7F-BF34-D14B1D49A590}.Debug|anycpu.Build.0 = Debug|anycpu
 		{6678EC9D-97F0-4B7F-BF34-D14B1D49A590}.Release|anycpu.ActiveCfg = Release|anycpu
 		{6678EC9D-97F0-4B7F-BF34-D14B1D49A590}.Release|anycpu.Build.0 = Release|anycpu
+		{5ED44A41-B8A7-4C86-9588-3552FD799D22}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5ED44A41-B8A7-4C86-9588-3552FD799D22}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5ED44A41-B8A7-4C86-9588-3552FD799D22}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5ED44A41-B8A7-4C86-9588-3552FD799D22}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
